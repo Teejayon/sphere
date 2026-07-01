@@ -160,3 +160,4 @@ docker compose up        # Runs on port 3010
 ## License
 
 Private project — Unicity Labs
+private chain - unicity labs
